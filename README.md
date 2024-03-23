@@ -10,5 +10,5 @@ trnecka.jiri@gmail.com
 [<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="50" alt="Python">](https://www.python.org/)
 [<img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" height="50" alt="Django">](https://www.djangoproject.com/)
 [<img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" height="50" alt="Bootstrap">](https://getbootstrap.com/)
-[<img src="https://docs.pytest.org/en/8.0.x/_static/pytest_logo_curves.svg" height="50" alt="pytest"](https://docs.pytest.org/en/8.0.x/)
+[<img src="https://docs.pytest.org/en/8.0.x/_static/pytest_logo_curves.svg" height="50" alt="pytest">](https://docs.pytest.org/en/8.0.x/)
 
