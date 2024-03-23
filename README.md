@@ -7,6 +7,7 @@ Currently I'm learn to connect Django, React and testing in Chickenbook project.
 [linkedin](www.linkedin.com/in/jiritrnecka)
 trnecka.jiri@gmail.com
 ## What technologies am I work?
+[<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="100" alt="Python">](https://www.python.org/)
 * [![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)](https://www.python.org/)
 * Django
 * Bootstrap
