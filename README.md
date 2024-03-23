@@ -8,7 +8,7 @@ Currently I'm learn to connect Django, React and testing in Chickenbook project.
 trnecka.jiri@gmail.com
 ## What technologies am I work?
 [<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="50" alt="Python">](https://www.python.org/)
-* Django
+[<img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" height="50" alt="Django">](https://www.djangoproject.com/)
 * Bootstrap
 * HTMX
 * pytest
